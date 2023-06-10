@@ -5,7 +5,7 @@ Using Python requests, APIs, and JSON traversals to answer a fundamental questio
  While it may seem obvious that the weather gets hotter near the equator, we can support this assertion by gathering and analyzing data from reliable sources.
  By analyzing reliable weather data from APIs at various latitudes, we can statistically demonstrate the correlation between latitude and weather patterns, providing compelling evidence that supports the claim of increasing temperatures near the equator.
  
- ### Before starting the challenge:
+### Before starting the challenge:
 - Create a new repository on GitHub specifically for this project, naming it "python-api-challenge".
 - Clone the newly created repository to your local machine using Git.
 - Inside the local repository, create a directory called **"WeatherPy"** (or any desired name) to organize your project files.
