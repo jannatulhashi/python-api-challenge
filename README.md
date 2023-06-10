@@ -20,9 +20,10 @@ To get started, I will type git status in the command line to see a list of all 
 To add only the WeatherPy.ipynb file to GitHub, for example, type git add WeatherPy.ipynb.I will keep in mind that I would have to add each file individually when adding or updating a file. A more efficient solution is to add all of the files that I don't want to track to the .gitignore file.
 
 Before adding my files to GitHub, add api_keys.py to the .gitignore file by following these steps:
+
   1: Open my python-api-challenge GitHub folder in VS Code.
   
-  2:Open the .gitignore file and type the following code on the first line:
+  2: Open the .gitignore file and type the following code on the first line:
 
 **Adding config.py file.**
 
