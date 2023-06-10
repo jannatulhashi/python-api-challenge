@@ -12,7 +12,7 @@ Using Python requests, APIs, and JSON traversals to answer a fundamental questio
 - Place the files **"api_keys.py"**, **"WeatherPy.ipynb"**, and **"VacationPy.ipynb"** (provided in the starter code ZIP file) into the **"WeatherPy"** directory.
 - Make sure to add a ".gitignore" file to your repository before pushing any changes to GitHub.
 
-### Add a .gitignore File
+#### Add a .gitignore File
 For this challenge, I will need to add a .gitignore file to my repo. Doing so will prevent the api_keys.py file that contains my API key from being shared with the public. If I skip this step, anyone using GitHub could copy and use my API key, and I may incur charges as a result.
 
 To get started, I will type git status in the command line to see a list of all the untracked files that I have created so far.
@@ -24,8 +24,8 @@ Before adding my files to GitHub, add api_keys.py to the .gitignore file by foll
   
   2:Open the .gitignore file and type the following code on the first line:
 
-# Adding config.py file.
-api_keys.py
+**Adding config.py file.**
+  api_keys.py
 
   3: In the command line, type git status and press Enter. The output should indicate that the .gitignore file has been modified and the api_keys.py file is untracked.
 
