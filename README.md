@@ -25,6 +25,7 @@ Before adding my files to GitHub, add api_keys.py to the .gitignore file by foll
   2:Open the .gitignore file and type the following code on the first line:
 
 **Adding config.py file.**
+
   api_keys.py
 
   3: In the command line, type git status and press Enter. The output should indicate that the .gitignore file has been modified and the api_keys.py file is untracked.
